@@ -5,8 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 import java.util.Locale;
 
-public class Solution {
-    
+public class CurrencyFormatter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double payment = scanner.nextDouble();
